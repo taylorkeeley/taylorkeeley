@@ -1,5 +1,5 @@
 # Taylor Keeley | Data Analyst
-📍 *Based in [Somerville, New Jersey]* 
+📍 *Based in Somerville, New Jersey* 
 
 > Data Analyst focused on converting complex datasets into actionable business strategy using SQL, Excel, SAS, Power BI, and Python.
 
