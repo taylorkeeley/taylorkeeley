@@ -14,12 +14,12 @@
 
 ## 📌 Featured Projects
 
-### 📊 [Project Title 1: E-Commerce Customer Churn Analysis](https://github.com/username/project-1)
+### 📊 [Project 1: Beyond the Bubbles: Analyzing AP Free-Response Scores](https://github.com/username/project-1)
 * **Objective:** Identify underlying factors contributing to a 15% quarterly churn rate.
 * **Approach:** Extracted and cleaned 50k+ records using **SQL**, built interactive cohort retention charts in **Power BI**.
 * **Key Finding:** Recommended targeted engagement for users with >30 days inactivity, projecting an **8% increase in retention**.
 
-### 📈 [Project Title 2: Automated Sales & Revenue Dashboard](https://github.com/username/project-2)
+### 📈 [Project 2: Automated Sales & Revenue Dashboard](https://github.com/username/project-2)
 * **Objective:** Eliminate manual 10-hour weekly reporting workflow for regional sales teams.
 * **Approach:** Developed **Python** scripts to automatically clean and aggregate CSV exports into an optimized **SQL** staging database.
 * **Key Finding:** Reduced weekly reporting delivery time by **90%** with automated daily data refreshes.
