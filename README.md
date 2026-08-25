@@ -36,4 +36,4 @@
 
 ---
 
-📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/taylor-keeley/)) | [Portfolio Site](https://your-portfolio.github.io) | [Email](mailto:tkeeley761@gmail.com)
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/taylor-keeley/) | [Portfolio Site](https://your-portfolio.github.io) | [Email](mailto:tkeeley761@gmail.com)
