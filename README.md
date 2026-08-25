@@ -22,7 +22,7 @@
 ### 📈 [Project 2: Status - Pending: Tracking Disability Claims Lifecycles](https://github.com/username/project-2)
 * **Objective:** Track where open disability applications are in the process.
 * **Approach:** Develop **SQL** scripts using window functions and CTEs to clean and aggregate data to summarize number of applications at every stage of the cycle.
-* **Key Finding:** Reduced weekly reporting delivery time by **90%** with automated daily data refreshes.
+* **Key Finding:** Showed leadership where applications get bottlenecked and spend the most time. Offered areas to focus on which shortened overall lifecycle time. 
 
 ---
 
