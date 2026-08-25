@@ -20,8 +20,8 @@
 * **Key Finding:** Informed stakeholders which AP exams were performing optimally and which need improvement, leading to improvement of nationwide statistics.
 
 ### 📈 [Project 2: Status - Pending: Tracking Disability Claims Lifecycles](https://github.com/username/project-2)
-* **Objective:** Eliminate manual 10-hour weekly reporting workflow for regional sales teams.
-* **Approach:** Developed **Python** scripts to automatically clean and aggregate CSV exports into an optimized **SQL** staging database.
+* **Objective:** Track where open disability applications are in the process.
+* **Approach:** Develop **SQL** scripts using window functions and CTEs to clean and aggregate data to summarize number of applications at every stage of the cycle.
 * **Key Finding:** Reduced weekly reporting delivery time by **90%** with automated daily data refreshes.
 
 ---
