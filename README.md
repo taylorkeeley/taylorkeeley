@@ -15,11 +15,11 @@
 ## 📌 Featured Projects
 
 ### 📊 [Project 1: Beyond the Bubbles: Analyzing AP Free-Response Scores](https://github.com/username/project-1)
-* **Objective:** Identify underlying factors contributing to a 15% quarterly churn rate.
-* **Approach:** Extracted and cleaned 50k+ records using **SQL**, built interactive cohort retention charts in **Power BI**.
-* **Key Finding:** Recommended targeted engagement for users with >30 days inactivity, projecting an **8% increase in retention**.
+* **Objective:** Translate outdated language into a modern coding language to help analyze, smooth, and chart data related to AP Free-Response scores.  
+* **Approach:** Extract and clean 1M+ records using **SAS** to chart Gaussian curve visualizations for stake holders in Excel. 
+* **Key Finding:** Informed stakeholders which AP exams were performing optimally and which need improvement, leading to improvement of nationwide statistics.
 
-### 📈 [Project 2: Automated Sales & Revenue Dashboard](https://github.com/username/project-2)
+### 📈 [Project 2: Status - Pending: Tracking Disability Claims Lifecycles](https://github.com/username/project-2)
 * **Objective:** Eliminate manual 10-hour weekly reporting workflow for regional sales teams.
 * **Approach:** Developed **Python** scripts to automatically clean and aggregate CSV exports into an optimized **SQL** staging database.
 * **Key Finding:** Reduced weekly reporting delivery time by **90%** with automated daily data refreshes.
