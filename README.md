@@ -7,7 +7,7 @@
 
 ## 💻 Tech Stack & Capabilities
 
-* **Data Analysis & Scripting:** SQL (MS SQL), SAS, Python
+* **Data Analysis & Scripting:** SQL (My SQL), SAS, Python
 * **Visualization & BI:** Power BI, Excel 
 
 ---
